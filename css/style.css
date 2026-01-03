@@ -1,0 +1,10 @@
+.test{
+    color: blueviolet;
+    background-color: darkgrey;
+    border-radius: 30px;
+    list-style-type:square;
+}
+.center{
+    display: block;
+    margin: auto;
+}
